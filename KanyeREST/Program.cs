@@ -21,7 +21,7 @@ namespace KanyeREST
                 var response = Console.ReadLine();
                 if (response.ToLower() == "k")
                 {
-                    Console.WriteLine("Yeah, Kanye is the greatest.");
+                    Console.WriteLine("Yeah, Kanye is awesome.");
                 }
                 else if (response.ToLower() == "r")
                 {
